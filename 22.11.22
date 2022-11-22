@@ -1,0 +1,43 @@
+sno=1
+name='samhitha'
+gender='female'
+group='dsstcs'
+address='asrnagar'
+phno=9966879411
+print(sno)
+print(gender)
+print(group)
+print(address)
+print(phno)
+print(name)
+
+output:1
+     female
+     dsstcs
+     asrnagar
+     9966879411
+     samhitha
+
+
+a=2
+b=3
+a=a+b
+b=a-b
+a=a-b
+print(a)
+print(b)
+
+output:3
+       2
+
+
+p=10000
+t=5
+r=25
+si=(p*t*r)/100
+print(si)
+emi=(p+si)/t*12
+print(emi)
+
+ouput:12500
+      54000
